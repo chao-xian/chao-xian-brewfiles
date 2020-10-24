@@ -1,5 +1,6 @@
 # 'brew tap'
 tap "homebrew/cask"
+tap "alphagov/gds"
 
 cask "aws-vault"
 cask "dropbox"
