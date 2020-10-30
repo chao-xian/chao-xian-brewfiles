@@ -10,6 +10,7 @@ brew "rbenv"
 brew "nvm"
 brew "postgresql"
 brew "pyenv"
+cask "shifty"
 
 brew "mas"
 
