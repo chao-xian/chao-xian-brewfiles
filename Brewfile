@@ -16,6 +16,7 @@ brew "mas"
 
 mas "1Password", id: 1333542190
 mas "Moom", id: 419330170
+mas "Be Focused Pro - Focus Timer", id: 961632517
 
 # Other things:
 # https://ohmyz.sh
