@@ -2,12 +2,15 @@ tap "homebrew/cask"
 
 cask "appcleaner"
 cask "aws-vault"
+brew "coreutils" # for gitwatch
 cask "dropbox"
 cask "fork"
+brew "fswatch" # for gitwatch
 brew "gds-cli"
 brew "govuk-connect"
 brew "rbenv"
 brew "nvm"
+brew "pass"
 brew "postgresql"
 brew "pyenv"
 cask "shifty"
