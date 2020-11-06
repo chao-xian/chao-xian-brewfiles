@@ -14,6 +14,7 @@ brew "pass"
 brew "postgresql"
 brew "pyenv"
 cask "shifty"
+cask "signal"
 
 brew "mas"
 
