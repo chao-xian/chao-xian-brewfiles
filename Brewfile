@@ -9,6 +9,7 @@ brew "fswatch" # for gitwatch
 brew "gds-cli"
 brew "govuk-connect"
 brew "rbenv"
+cask "rescuetime"
 brew "nvm"
 brew "pass"
 brew "postgresql"
