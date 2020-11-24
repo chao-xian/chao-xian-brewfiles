@@ -8,8 +8,10 @@ cask "fork"
 brew "fswatch" # for gitwatch
 brew "gds-cli"
 brew "govuk-connect"
+cask "imageoptim"
 brew "rbenv"
 cask "rescuetime"
+cask "neo4j"
 brew "nvm"
 brew "pass"
 brew "postgresql"
@@ -20,6 +22,7 @@ cask "signal"
 brew "mas"
 
 mas "1Password", id: 1333542190
+mas "Instapaper", id: 288545208
 mas "Moom", id: 419330170
 mas "Be Focused Pro - Focus Timer", id: 961632517
 
