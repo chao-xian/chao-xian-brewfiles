@@ -5,6 +5,7 @@ cask "appcleaner"
 cask "aws-vault"
 brew "coreutils" # for gitwatch
 cask "dropbox"
+cask "fly"
 cask "fork"
 brew "fswatch" # for gitwatch
 brew "gds-cli"
